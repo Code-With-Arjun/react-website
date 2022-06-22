@@ -1,0 +1,16 @@
+.login-btn,.signup-btn{
+    background-color: #6d28d9;
+    padding: 8px;
+    border-radius: 9px;
+    color: white;
+    /* padding-left: 2px; */
+    text-decoration: none;
+    padding: .5rem 1rem;
+    display: flex;
+}
+.login-btn:hover,.signup-btn:hover{
+   background-color: transparent;
+   border: #6d28d9;
+   color: black;
+  
+}
